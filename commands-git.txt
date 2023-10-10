@@ -4,3 +4,6 @@ git add nom-fichier.format
 git commit -m "exemple commit"
 git push -u origin main
 git pull <remote-name> <branch-name>
+git branch <branch-name>
+git checkout <branch-name>
+
